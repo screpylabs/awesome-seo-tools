@@ -563,6 +563,7 @@ Validate sitemaps, structured data, redirects, metadata, and technical SEO signa
 | [Screpy](https://screpy.com/) | Website audit, rank tracking, monitoring, and SEO reporting. | [$16/mo](https://screpy.com/pricing/) | annual billing | Free trial |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) | Browser tools for on-page analysis, links, and SERP previews. | [See website](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) | varies | Check website |
 | [Server-side Rendering Checker](https://www.crawlably.com/ssr-checker/) | Compare server-rendered and browser-rendered page output. | [See website](https://www.crawlably.com/ssr-checker/) | varies | Check website |
+| [Sitemap Health Checker](https://mydentify.com/tools/sitemap-health-checker) | Check XML sitemaps for structure, fetchability, duplicate URLs, and common health issues. | [Free](https://mydentify.com/tools/sitemap-health-checker) | free tool | Free tool |
 | [Siteliner](https://www.siteliner.com/) | Find duplicate content, broken links, and quality issues. | [See website](https://www.siteliner.com/) | varies | Check website |
 | [Wizardstool](https://wizardstool.com/) | Check sites for broken links. | [See website](https://wizardstool.com/) | varies | Check website |
 | [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) | Validate XML sitemaps for errors. | [See website](https://www.xml-sitemaps.com/validate-xml-sitemap.html) | varies | Check website |
