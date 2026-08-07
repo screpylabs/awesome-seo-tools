@@ -567,6 +567,8 @@ Validate sitemaps, structured data, redirects, metadata, and technical SEO signa
 | [Wizardstool](https://wizardstool.com/) | Check sites for broken links. | [See website](https://wizardstool.com/) | varies | Check website |
 | [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) | Validate XML sitemaps for errors. | [See website](https://www.xml-sitemaps.com/validate-xml-sitemap.html) | varies | Check website |
 
+- [Vaytric Link Health](https://vaytric.com/link-health/) - Free multi-URL broken link checker; optional one-time $5 full-site crawl CSV for 404s, 5xx, redirects, and missing titles.
+
 ## Social media and Open Graph
 
 Preview, validate, and improve social metadata that supports content distribution.
