@@ -66,7 +66,7 @@ Broad SEO suites for research, auditing, rank tracking, content, and reporting.
 | [SpyFu](https://www.spyfu.com/) | SEO and PPC competitive intelligence with keywords and historical data. | [See website](https://www.spyfu.com/) | varies | Check website |
 | [Telescope](https://withtelescope.com/) | SEO toolkit for research, audits, rank tracking, and internal-link opportunities. | [See website](https://withtelescope.com/) | varies | Check website |
 | [Ubersuggest](https://neilpatel.com/ubersuggest/) | SEO suite for keyword ideas, traffic, and competitive research. | [See website](https://neilpatel.com/ubersuggest/) | varies | Check website |
-| [WebCEO](https://www.webceo.com/) | White-label SEO platform for agencies and teams. | [See website](https://www.webceo.com/pricing) | varies | See pricing page |
+| [WebCEO](https://www.webceo.com/) | White-label SEO platform for agencies and teams. | [See website](https://www.webceo.com/pricing) | varies | See pricing page |(https://cricinsidehub.com/) | cricinsidehub | Check website |
 
 ## Keyword research and clustering
 
