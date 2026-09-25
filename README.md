@@ -26,12 +26,12 @@
 18. [Free search-engine tools](#free-search-engine-tools) (10)
 19. [Uptime and website monitoring](#uptime-and-website-monitoring) (6)
 20. [SEO browser extensions](#seo-browser-extensions) (19)
-21. [SEO validators and checkers](#seo-validators-and-checkers) (21)
+21. [SEO validators and checkers](#seo-validators-and-checkers) (22)
 22. [Social media and Open Graph](#social-media-and-open-graph) (5)
 
 ## About
 
-- **261 unique tools** across **22 SEO workflows**.
+- **262 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -568,6 +568,7 @@ Validate sitemaps, structured data, redirects, metadata, and technical SEO signa
 | [Screpy](https://screpy.com/) | Website audit, rank tracking, monitoring, and SEO reporting. | [$16/mo](https://screpy.com/pricing/) | annual billing | Free trial |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) | Browser tools for on-page analysis, links, and SERP previews. | [See website](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) | varies | Check website |
 | [Server-side Rendering Checker](https://www.crawlably.com/ssr-checker/) | Compare server-rendered and browser-rendered page output. | [See website](https://www.crawlably.com/ssr-checker/) | varies | Check website |
+| [Sitemap Health Checker](https://mydentify.com/tools/sitemap-health-checker) | Check sitemap XML structure, duplicate URLs, lastmod dates, and a bounded sample of sitemap indexes. | [Free](https://mydentify.com/tools/sitemap-health-checker) | free tool | Free tool |
 | [Siteliner](https://www.siteliner.com/) | Find duplicate content, broken links, and quality issues. | [See website](https://www.siteliner.com/) | varies | Check website |
 | [Wizardstool](https://wizardstool.com/) | Check sites for broken links. | [See website](https://wizardstool.com/) | varies | Check website |
 | [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) | Validate XML sitemaps for errors. | [See website](https://www.xml-sitemaps.com/validate-xml-sitemap.html) | varies | Check website |
