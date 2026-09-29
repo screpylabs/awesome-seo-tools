@@ -12,7 +12,7 @@
 04. [Technical SEO crawlers and audits](#technical-seo-crawlers-and-audits) (38)
 05. [On-page SEO and content optimisation](#on-page-seo-and-content-optimisation) (42)
 06. [AI SEO and content creation](#ai-seo-and-content-creation) (23)
-07. [Backlink research and link building](#backlink-research-and-link-building) (20)
+07. [Backlink research and link building](#backlink-research-and-link-building) (21)
 08. [Digital PR and outreach](#digital-pr-and-outreach) (14)
 09. [Local SEO and map visibility](#local-seo-and-map-visibility) (11)
 10. [Schema and structured data](#schema-and-structured-data) (13)
@@ -31,7 +31,7 @@
 
 ## About
 
-- **262 unique tools** across **22 SEO workflows**.
+- **263 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -281,6 +281,7 @@ Analyse backlink profiles, discover prospects, and manage link campaigns.
 | [BuzzStream](https://www.buzzstream.com/) | Link prospecting, outreach, and digital PR relationship management. | [See website](https://www.buzzstream.com/pricing) | varies | See pricing page |
 | [cognitiveSEO](https://cognitiveseo.com/) | Backlink analysis, unnatural link detection, and tracking. | [See website](https://cognitiveseo.com/pricing/) | varies | See pricing page |
 | [HARO Connectively](https://www.connectively.us/) | Source-journalist matching for earned media opportunities. | [Free](https://www.connectively.us/pricing) | free plan | Free plan |
+| [LinkCensus](https://linkcensus.com/) | Discover related websites with shared-linker evidence from dated Common Crawl graphs. | [See website](https://linkcensus.com/#pricing) | one-time | Five-result preview, no sign-up |
 | [Linkody](https://www.linkody.com/) | Backlink tracking, competitor monitoring, and reporting. | [See website](https://www.linkody.com/pricing) | varies | See pricing page |
 | [LinkResearchTools](https://www.linkresearchtools.com/) | Enterprise backlink analysis and link-risk workflows. | [See website](https://www.linkresearchtools.com/pricing/) | varies | See pricing page |
 | [Majestic](https://majestic.com/) | Backlink index, link metrics, and competitor research. | [See website](https://majestic.com/plans) | varies | See pricing page |
