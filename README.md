@@ -11,7 +11,7 @@
 03. [Rank tracking and SERP intelligence](#rank-tracking-and-serp-intelligence) (31)
 04. [Technical SEO crawlers and audits](#technical-seo-crawlers-and-audits) (38)
 05. [On-page SEO and content optimisation](#on-page-seo-and-content-optimisation) (42)
-06. [AI SEO and content creation](#ai-seo-and-content-creation) (23)
+06. [AI SEO and content creation](#ai-seo-and-content-creation) (24)
 07. [Backlink research and link building](#backlink-research-and-link-building) (20)
 08. [Digital PR and outreach](#digital-pr-and-outreach) (14)
 09. [Local SEO and map visibility](#local-seo-and-map-visibility) (11)
@@ -31,7 +31,7 @@
 
 ## About
 
-- **262 unique tools** across **22 SEO workflows**.
+- **263 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -256,6 +256,7 @@ Generate, refresh, optimise, and scale SEO content with editorial control.
 | [Hypertxt](https://hypertxt.ai) | Generate deeply researched SEO and GEO content. | [See website](https://hypertxt.ai) | varies | Check website |
 | [Jasper](https://www.jasper.ai/) | AI content platform for marketing teams and workflows. | [$69/mo](https://www.jasper.ai/pricing) | monthly | 7-day free trial |
 | [Koala](https://koala.sh/) | AI writing and chatbot tools for publishers. | [$9/mo](https://koala.sh/pricing) | monthly | Free trial |
+| [LogNorm](https://lognorm.com/) | Crawls a site, ranks SEO and GEO fixes, and hands them to Claude Code, Codex and Cursor over MCP. | [Free](https://lognorm.com/pricing) | monthly | Free plan |
 | [NotFair](https://github.com/nowork-studio/NotFair) | Local SEO agents that diagnose organic-search issues from live data and improve metadata, headings, structured data, and content through reviewable changes. | [Free](https://github.com/nowork-studio/NotFair) | open source | Uses an existing Codex or Claude Code login |
 | [Outranking](https://www.outranking.io/) | AI SEO strategy, briefs, and content optimisation. | [See website](https://www.outranking.io/pricing) | varies | See pricing page |
 | [RankIQ](https://www.rankiq.com/) | Keyword libraries and AI content optimisation for bloggers. | [$49/mo](https://www.rankiq.com/pricing) | monthly | Free trial |
