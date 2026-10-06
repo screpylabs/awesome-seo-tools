@@ -385,6 +385,7 @@ Understand organic traffic, search demand, visitor behaviour, and conversions.
 | [Fathom Analytics](https://usefathom.com/) | Simple privacy-focused website analytics. | [$15/mo](https://usefathom.com/pricing) | monthly | 30-day free trial |
 | [Google Analytics](https://analytics.google.com/) | Website traffic, conversion, and audience analytics. | [Free](https://marketingplatform.google.com/about/analytics/) | free plan | Free standard plan |
 | [Google Search Console](https://search.google.com/search-console/) | Google search performance, indexing, and enhancement reports. | [Free](https://search.google.com/search-console/) | free tool | Free tool |
+| [Inteldo](https://inteldo.com/) | Cross-source business research for SEO, traffic, and growth data. | See website | varies | Free to start |
 | [Matomo](https://matomo.org/) | Open-source or hosted privacy analytics platform. | [See website](https://matomo.org/pricing/) | varies | See pricing page |
 | [Microsoft Clarity](https://clarity.microsoft.com/) | Session recordings, heatmaps, and behavioural insights. | [Free](https://clarity.microsoft.com/) | free tool | Free tool |
 | [Plausible](https://plausible.io/) | Privacy-friendly, lightweight web analytics. | [See website](https://plausible.io/pricing) | varies | See pricing page |
@@ -420,6 +421,7 @@ Turn SEO, paid, and analytics data into client-ready dashboards and reports.
 | [DashThis](https://dashthis.com/) | Automated marketing dashboards and client reports. | [$44/mo](https://dashthis.com/pricing/) | annual billing | 15-day free trial |
 | [Databox](https://databox.com/) | Business dashboards, metrics, and performance alerts. | [$64/mo](https://databox.com/pricing) | monthly | Free plan |
 | [DAXRM](https://www.daxrm.com/) | Agency CRM for SEO, PPC, reporting, and team collaboration. | [See website](https://www.daxrm.com/) | varies | Check website |
+| [Inteldo](https://inteldo.com/) | Research and reporting across SEO, traffic, paid, and business data. | See website | varies | Free to start |
 | [Klipfolio](https://www.klipfolio.com/) | Custom KPI dashboards and data visualisation. | [$120/mo](https://www.klipfolio.com/pricing) | monthly | 14-day free trial |
 | [Looker Studio](https://lookerstudio.google.com/) | Free Google dashboards for Search Console, Analytics, and more. | [Free](https://lookerstudio.google.com/) | free tool | Free tool |
 | [Oviond](https://www.oviond.com/) | White-label marketing dashboards and reporting. | [$39/mo](https://www.oviond.com/pricing) | monthly | 14-day free trial |
