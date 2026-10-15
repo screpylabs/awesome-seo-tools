@@ -20,7 +20,7 @@
 12. [Web analytics and search data](#web-analytics-and-search-data) (11)
 13. [Log analysis and observability](#log-analysis-and-observability) (10)
 14. [SEO reporting and dashboards](#seo-reporting-and-dashboards) (18)
-15. [E-commerce and marketplace SEO](#e-commerce-and-marketplace-seo) (11)
+15. [E-commerce and marketplace SEO](#e-commerce-and-marketplace-seo) (12)
 16. [International SEO and localisation](#international-seo-and-localisation) (10)
 17. [Image and video SEO](#image-and-video-seo) (12)
 18. [Free search-engine tools](#free-search-engine-tools) (10)
@@ -31,7 +31,7 @@
 
 ## About
 
-- **262 unique tools** across **22 SEO workflows**.
+- **263 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -444,6 +444,7 @@ Research marketplace demand, improve product listings, and monitor commerce sear
 | [DataHawk](https://datahawk.co/) | Marketplace analytics and SEO for Amazon and Walmart. | [See website](https://datahawk.co/pricing) | varies | See pricing page |
 | [eRank](https://erank.com/) | Etsy keyword, listing, and shop SEO research. | [$5.99/mo](https://erank.com/pricing) | monthly | Free plan |
 | [EverBee](https://everbee.io/) | Etsy product research, analytics, and keyword tools. | [$19.99/mo](https://everbee.io/pricing) | monthly | Free plan |
+| [Felt & Wood](https://feltandwood.com/) | Rules-based Etsy title, tag, and description checker with local browser processing. | [Free](https://feltandwood.com/pricing) | free tool | Free during validation; no account required |
 | [Helium 10](https://www.helium10.com/) | Amazon keyword research, listing optimisation, and operations. | [$100/mo](https://www.helium10.com/pricing/) | monthly | Free plan |
 | [Jungle Scout](https://www.junglescout.com/) | Amazon product research, keywords, and listing optimisation. | [$49/mo](https://www.junglescout.com/pricing/) | monthly | 7-day money-back guarantee |
 | [Marmalead](https://marmalead.com/) | Etsy SEO, keyword research, and listing insights. | [$19/mo](https://marmalead.com/pricing/) | monthly | Free trial |
