@@ -162,6 +162,7 @@ Crawl sites, find technical defects, and monitor indexability at scale.
 | [LibreCrawl](https://librecrawl.com/) | Open-source crawler with JavaScript rendering and unlimited URL crawling. | [See website](https://librecrawl.com/) | varies | Check website |
 | [linkok.com](https://linkok.com) | Modern broken-link checker. | [See website](https://linkok.com) | varies | Check website |
 | [Lumar](https://www.lumar.io/) | Enterprise technical SEO, crawling, and website intelligence. | [Custom](https://www.lumar.io/pricing/) | quote-based | Demo available |
+| [MaxiMarket](https://maximarket.info/) | Technical SEO and AI-readiness audits with published rules, Fix Briefs, and MCP integration. | Free | free tier | Free audits; 3 monitored pages |
 | [Moz On-Page Grader](https://moz.com/tools/onpage-grader) | Analyse individual-page optimisation opportunities. | [See website](https://moz.com/tools/onpage-grader) | varies | Check website |
 | [Netpeak Spider](https://netpeaksoftware.com/spider) | Desktop crawler for SEO audits and website scraping. | [See website](https://netpeaksoftware.com/prices) | varies | See pricing page |
 | [NotFair](https://github.com/nowork-studio/NotFair) | Agent-led technical and on-page SEO audits using live search data, with fixes proposed as reviewable pull requests. | [Free](https://github.com/nowork-studio/NotFair) | open source | Uses an existing Codex or Claude Code login |
