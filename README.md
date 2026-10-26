@@ -17,21 +17,21 @@
 09. [Local SEO and map visibility](#local-seo-and-map-visibility) (11)
 10. [Schema and structured data](#schema-and-structured-data) (13)
 11. [Core Web Vitals and site speed](#core-web-vitals-and-site-speed) (13)
-12. [Web analytics and search data](#web-analytics-and-search-data) (11)
+12. [Web analytics and search data](#web-analytics-and-search-data) (12)
 13. [Log analysis and observability](#log-analysis-and-observability) (10)
-14. [SEO reporting and dashboards](#seo-reporting-and-dashboards) (18)
+14. [SEO reporting and dashboards](#seo-reporting-and-dashboards) (19)
 15. [E-commerce and marketplace SEO](#e-commerce-and-marketplace-seo) (11)
 16. [International SEO and localisation](#international-seo-and-localisation) (10)
 17. [Image and video SEO](#image-and-video-seo) (12)
 18. [Free search-engine tools](#free-search-engine-tools) (10)
 19. [Uptime and website monitoring](#uptime-and-website-monitoring) (6)
-20. [SEO browser extensions](#seo-browser-extensions) (19)
+20. [SEO browser extensions](#seo-browser-extensions) (20)
 21. [SEO validators and checkers](#seo-validators-and-checkers) (22)
 22. [Social media and Open Graph](#social-media-and-open-graph) (5)
 
 ## About
 
-- **262 unique tools** across **22 SEO workflows**.
+- **264 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -380,6 +380,7 @@ Understand organic traffic, search demand, visitor behaviour, and conversions.
 
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
+| [allclicks](https://allclicks.net/) | Search Console dashboard for many sites, with tags and lists of what is dropping or growing. | [Free](https://allclicks.net/) | free tool | Free tool |
 | [Bing Webmaster Tools](https://www.bing.com/webmasters/) | Bing search performance, indexing, and SEO reports. | [Free](https://www.bing.com/webmasters/) | free tool | Free tool |
 | [Clicky](https://clicky.com/) | Real-time web analytics and heatmaps. | [See website](https://clicky.com/pricing) | varies | See pricing page |
 | [Fathom Analytics](https://usefathom.com/) | Simple privacy-focused website analytics. | [$15/mo](https://usefathom.com/pricing) | monthly | 30-day free trial |
@@ -416,6 +417,7 @@ Turn SEO, paid, and analytics data into client-ready dashboards and reports.
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
 | [AgencyAnalytics](https://agencyanalytics.com/) | Agency dashboards, client portals, and automated reports. | [See website](https://agencyanalytics.com/pricing) | varies | See pricing page |
+| [allclicks](https://allclicks.net/) | Search Console dashboard for many sites, with tags and lists of what is dropping or growing. | [Free](https://allclicks.net/) | free tool | Free tool |
 | [BrightEdge](https://www.brightedge.com/) | Enterprise platform for SEO, content optimisation, and competitive analysis. | [See website](https://www.brightedge.com/) | varies | Check website |
 | [DashThis](https://dashthis.com/) | Automated marketing dashboards and client reports. | [$44/mo](https://dashthis.com/pricing/) | annual billing | 15-day free trial |
 | [Databox](https://databox.com/) | Business dashboards, metrics, and performance alerts. | [$64/mo](https://databox.com/pricing) | monthly | Free plan |
@@ -535,6 +537,7 @@ Run quick on-page checks, inspect SERPs, and research keywords directly in the b
 | [MozBar](https://moz.com/products/pro/seo-toolbar) | Browser toolbar for instant page and SERP metrics. | [See website](https://moz.com/products/pro/seo-toolbar) | varies | Check website |
 | [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) | Show position numbers directly in Google search results. | [See website](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) | varies | Check website |
 | [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll) | Browser redirect and HTTP-header checker. | [See website](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll) | varies | Check website |
+| [Rung](https://chromewebstore.google.com/detail/rung-serp-counter-free-se/hgflfemcglkmldhcpmhkdeonkflajmkk) | Numbers organic Google results and pins notes to any page or site. | [Free](https://chromewebstore.google.com/detail/rung-serp-counter-free-se/hgflfemcglkmldhcpmhkdeonkflajmkk) | free tool | Free tool |
 | [Screpy](https://screpy.com/) | Website audit, rank tracking, monitoring, and SEO reporting. | [$16/mo](https://screpy.com/pricing/) | annual billing | Free trial |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) | Browser tools for on-page analysis, links, and SERP previews. | [See website](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) | varies | Check website |
 | [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon) | Emulate Google searches by location and check top-100 rankings. | [See website](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon) | varies | Check website |
