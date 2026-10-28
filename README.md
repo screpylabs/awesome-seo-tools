@@ -541,6 +541,7 @@ Run quick on-page checks, inspect SERPs, and research keywords directly in the b
 | [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) | Persistent browser side panel with real-time on-page SEO data. | [See website](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) | varies | Check website |
 | [SEOquake](https://www.seoquake.com/index.html) | Browser SEO toolbox with page and SERP metrics. | [See website](https://www.seoquake.com/index.html) | varies | Check website |
 | [Similarweb](https://www.similarweb.com/) | Digital market intelligence, traffic research, and keyword data. | [See website](https://www.similarweb.com/pricing/) | varies | See pricing page |
+| [Spoof Me](https://spoof-me.com/) | Chrome and Firefox extension to check hreflang, geo/language redirects and mobile vs desktop serving by switching language, location and device. | [Free](https://spoof-me.com/) | free | Free tool |
 | [TextOptimizer](https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) | Extract relevant terms and intent cues from search results. | [See website](https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) | varies | Check website |
 | [Woorank](https://www.woorank.com/) | Website review platform for practical SEO improvements. | [See website](https://www.woorank.com/) | varies | Check website |
 
