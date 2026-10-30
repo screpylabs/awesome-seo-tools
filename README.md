@@ -581,6 +581,7 @@ Preview, validate, and improve social metadata that supports content distributio
 | --- | --- | --- | --- | --- |
 | [BuzzSumo](https://buzzsumo.com/) | Content research, link analysis, and social media intelligence. | [See website](https://buzzsumo.com/) | varies | Check website |
 | [ContentStudio](https://app.contentstudio.io) | Discover niche content and publish it across social channels. | [See website](https://app.contentstudio.io) | varies | Check website |
+| [CurlShot](https://curlshot.com/tools/open-graph-image-generator) | Generate Open Graph images in the browser or render pages and HTML to images via a screenshot API. | [$19/mo](https://curlshot.com/pricing) | monthly | Free plan, 100 screenshots/month |
 | [ogimg.xyz](https://ogimg.xyz/) | Generate branded Open Graph images programmatically. | [See website](https://ogimg.xyz/) | varies | Check website |
 | [Open Graph Debugger](https://developers.facebook.com/tools/debug/) | Debug Open Graph metadata before sharing. | [See website](https://developers.facebook.com/tools/debug/) | varies | Check website |
 | [ShotOG](https://github.com/nicepkg/shotog) | Open-source edge-native Open Graph image generation API. | [See website](https://github.com/nicepkg/shotog) | varies | Check website |
