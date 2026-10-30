@@ -391,6 +391,7 @@ Understand organic traffic, search demand, visitor behaviour, and conversions.
 | [SEO Gets](https://seogets.com/) | Privacy-focused search analytics for agencies and affiliates. | [See website](https://seogets.com/) | varies | Check website |
 | [Simple Analytics](https://www.simpleanalytics.com/) | Privacy-first website analytics and event tracking. | [$20/mo](https://www.simpleanalytics.com/pricing) | monthly | 14-day free trial |
 | [Statcounter](https://statcounter.com/) | Website traffic statistics and visitor behaviour analytics. | [See website](https://statcounter.com/pricing/) | varies | See pricing page |
+| [Vaneform](https://vaneform.com/) | Competitive website traffic estimates and growth leaderboards. | [Free](https://vaneform.com/) | free plan | Free plan |
 
 ## Log analysis and observability
 
