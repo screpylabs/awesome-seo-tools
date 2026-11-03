@@ -7,31 +7,31 @@
 ## Contents
 
 01. [All-in-one SEO platforms](#all-in-one-seo-platforms) (24)
-02. [Keyword research and clustering](#keyword-research-and-clustering) (30)
+02. [Keyword research and clustering](#keyword-research-and-clustering) (31)
 03. [Rank tracking and SERP intelligence](#rank-tracking-and-serp-intelligence) (31)
-04. [Technical SEO crawlers and audits](#technical-seo-crawlers-and-audits) (38)
-05. [On-page SEO and content optimisation](#on-page-seo-and-content-optimisation) (42)
-06. [AI SEO and content creation](#ai-seo-and-content-creation) (23)
+04. [Technical SEO crawlers and audits](#technical-seo-crawlers-and-audits) (39)
+05. [On-page SEO and content optimisation](#on-page-seo-and-content-optimisation) (43)
+06. [AI SEO and content creation](#ai-seo-and-content-creation) (24)
 07. [Backlink research and link building](#backlink-research-and-link-building) (20)
 08. [Digital PR and outreach](#digital-pr-and-outreach) (14)
 09. [Local SEO and map visibility](#local-seo-and-map-visibility) (11)
-10. [Schema and structured data](#schema-and-structured-data) (13)
+10. [Schema and structured data](#schema-and-structured-data) (14)
 11. [Core Web Vitals and site speed](#core-web-vitals-and-site-speed) (13)
 12. [Web analytics and search data](#web-analytics-and-search-data) (11)
 13. [Log analysis and observability](#log-analysis-and-observability) (10)
 14. [SEO reporting and dashboards](#seo-reporting-and-dashboards) (18)
 15. [E-commerce and marketplace SEO](#e-commerce-and-marketplace-seo) (11)
-16. [International SEO and localisation](#international-seo-and-localisation) (10)
+16. [International SEO and localisation](#international-seo-and-localisation) (11)
 17. [Image and video SEO](#image-and-video-seo) (12)
 18. [Free search-engine tools](#free-search-engine-tools) (10)
 19. [Uptime and website monitoring](#uptime-and-website-monitoring) (6)
 20. [SEO browser extensions](#seo-browser-extensions) (19)
-21. [SEO validators and checkers](#seo-validators-and-checkers) (22)
+21. [SEO validators and checkers](#seo-validators-and-checkers) (23)
 22. [Social media and Open Graph](#social-media-and-open-graph) (5)
 
 ## About
 
-- **262 unique tools** across **22 SEO workflows**.
+- **263 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -75,6 +75,7 @@ Find demand, questions, keyword groups, and search-intent opportunities.
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
 | [Ahrefs](https://ahrefs.com/) | Keyword, backlink, content, and technical SEO platform. | [$129/mo](https://ahrefs.com/pricing) | monthly | Free Webmaster Tools |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Keyword clustering and content planning inside Claude Code. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [AlsoAsked](https://alsoasked.com/) | People Also Ask research and question-tree discovery. | [$15/mo](https://alsoasked.com/pricing) | monthly | Free searches with limits |
 | [AnswerThePublic](https://answerthepublic.com/) | Search questions, comparisons, and autocomplete visualisations. | [See website](https://answerthepublic.com/pricing) | varies | See pricing page |
 | [Bishopi.io](https://www.bishopi.io/) | Enterprise-grade SEO and domain intelligence platform. | [See website](https://www.bishopi.io/) | varies | Check website |
@@ -150,6 +151,7 @@ Crawl sites, find technical defects, and monitor indexability at scale.
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
 | [Ahrefs](https://ahrefs.com/) | Keyword, backlink, content, and technical SEO platform. | [$129/mo](https://ahrefs.com/pricing) | monthly | Free Webmaster Tools |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Website audits and broken-link checks through Claude Code on macOS or Linux. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) | Command-line SEO analysis for search and AI discovery. | [See website](https://github.com/sethblack/black-seo-analyzer) | varies | Check website |
 | [Botify](https://www.botify.com/) | Enterprise crawl, log, and search performance platform. | [Custom](https://www.botify.com/pricing/) | quote-based | Demo available |
 | [Broken Link Checker](https://www.brokenlinkcheck.com/) | Find and report broken links on a website. | [See website](https://www.brokenlinkcheck.com/) | varies | Check website |
@@ -195,6 +197,7 @@ Improve pages, briefs, entities, topical coverage, and content quality.
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
 | [Ahrefs SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | Extension for on-page reports, links, redirects, and country SERPs. | [See website](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | varies | Check website |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Review page titles, metadata, content and internal links in Claude Code. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [AltTextLab](https://www.alttextlab.com/) | Generate accessible, SEO-oriented image alt text with AI. | [See website](https://www.alttextlab.com/) | varies | Check website |
 | [BlogBud AI](https://blogbud.ai) | Generate SEO articles and export them to popular CMS platforms. | [See website](https://blogbud.ai) | varies | Check website |
 | [BrightEdge](https://www.brightedge.com/) | Enterprise platform for SEO, content optimisation, and competitive analysis. | [See website](https://www.brightedge.com/) | varies | Check website |
@@ -243,6 +246,7 @@ Generate, refresh, optimise, and scale SEO content with editorial control.
 
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Claude Code plugin with 12 skills, 5 agents and 3 commands for SEO, AEO and GEO. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [AltTextLab](https://www.alttextlab.com/) | Generate accessible, SEO-oriented image alt text with AI. | [See website](https://www.alttextlab.com/) | varies | Check website |
 | [Anyword](https://anyword.com/) | AI copywriting with performance prediction. | [$49/mo](https://anyword.com/pricing/) | monthly | 7-day free trial |
 | [BlogBud AI](https://blogbud.ai) | Generate SEO articles and export them to popular CMS platforms. | [See website](https://blogbud.ai) | varies | Check website |
@@ -340,6 +344,7 @@ Create, validate, manage, and monitor rich-result markup.
 
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Generate JSON-LD structured data through a Claude Code skill or agent. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [All in One SEO](https://aioseo.com/) | WordPress SEO suite with schema, sitemaps, and audits. | [See website](https://aioseo.com/pricing/) | varies | See pricing page |
 | [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) | Generate FAQ structured-data markup. | [See website](https://foxmaya.com/tools/faq-schema-generator) | varies | Check website |
 | [Google Rich Results Test](https://search.google.com/test/rich-results) | Test pages and code for Google rich-result eligibility. | [Free](https://search.google.com/test/rich-results) | free tool | Free tool |
@@ -458,6 +463,7 @@ Translate, localise, and manage multilingual websites for international search.
 
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Localise content with per-locale keyword research and hreflang through Claude Code. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [ConveyThis](https://www.conveythis.com/) | No-code website translation and language management. | [$12/mo](https://www.conveythis.com/pricing/) | monthly | Free plan |
 | [Crowdin](https://crowdin.com/) | Localisation platform for software, content, and websites. | [See website](https://crowdin.com/pricing) | varies | See pricing page |
 | [DeepL](https://www.deepl.com/) | AI translation for multilingual content workflows. | [See website](https://www.deepl.com/pro) | varies | See pricing page |
@@ -551,6 +557,7 @@ Validate sitemaps, structured data, redirects, metadata, and technical SEO signa
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
 | [Ahrefs SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | Extension for on-page reports, links, redirects, and country SERPs. | [See website](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | varies | Check website |
+| [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) | Check broken links and review page metadata in a Claude Code workflow. | Free plugin | No Akii subscription | MIT; Claude Code/model usage and optional data services have separate costs. |
 | [Broken Link Checker](https://www.brokenlinkcheck.com/) | Find and report broken links on a website. | [See website](https://www.brokenlinkcheck.com/) | varies | Check website |
 | [Checkbot](https://www.checkbot.io/) | Browser crawler for common SEO, speed, and security checks. | [See website](https://www.checkbot.io/) | varies | Check website |
 | [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) | Generate FAQ structured-data markup. | [See website](https://foxmaya.com/tools/faq-schema-generator) | varies | Check website |
