@@ -112,6 +112,7 @@ Track organic positions, local results, SERP features, and competitors.
 | Tool | Best for | Starting price | Billing | Free plan or trial |
 | --- | --- | --- | --- | --- |
 | [AccuRanker](https://www.accuranker.com/) | Fast daily rank tracking with segmentation and reporting. | [$224/mo](https://www.accuranker.com/pricing) | monthly | 14-day free trial |
+| [AgentSEO](https://www.agentseo.dev) | SEO and AEO data API for keyword research, Google SERP analysis, rank tracking, competitor insights, and AI-search visibility via REST and hosted MCP. | [$9/month](https://www.agentseo.dev/pricing) | monthly | 100 one-time introductory credits |
 | [Advanced Web Ranking](https://www.advancedwebranking.com/) | Enterprise rank tracking across search engines and locations. | [$139/mo](https://www.advancedwebranking.com/pricing) | monthly | 30-day free trial |
 | [Ahrefs](https://ahrefs.com/) | Keyword, backlink, content, and technical SEO platform. | [$129/mo](https://ahrefs.com/pricing) | monthly | Free Webmaster Tools |
 | [DAXRM](https://www.daxrm.com/) | Agency CRM for SEO, PPC, reporting, and team collaboration. | [See website](https://www.daxrm.com/) | varies | Check website |
