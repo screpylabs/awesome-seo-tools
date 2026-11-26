@@ -26,12 +26,12 @@
 18. [Free search-engine tools](#free-search-engine-tools) (10)
 19. [Uptime and website monitoring](#uptime-and-website-monitoring) (6)
 20. [SEO browser extensions](#seo-browser-extensions) (19)
-21. [SEO validators and checkers](#seo-validators-and-checkers) (22)
+21. [SEO validators and checkers](#seo-validators-and-checkers) (23)
 22. [Social media and Open Graph](#social-media-and-open-graph) (5)
 
 ## About
 
-- **262 unique tools** across **22 SEO workflows**.
+- **263 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -553,6 +553,7 @@ Validate sitemaps, structured data, redirects, metadata, and technical SEO signa
 | [Ahrefs SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | Extension for on-page reports, links, redirects, and country SERPs. | [See website](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | varies | Check website |
 | [Broken Link Checker](https://www.brokenlinkcheck.com/) | Find and report broken links on a website. | [See website](https://www.brokenlinkcheck.com/) | varies | Check website |
 | [Checkbot](https://www.checkbot.io/) | Browser crawler for common SEO, speed, and security checks. | [See website](https://www.checkbot.io/) | varies | Check website |
+| [DigestSEO Web Validator](https://digestseo.com/validator-mcp/) | MCP server for checking HTML, CSS, SEO metadata, JSON-LD syntax, and links. | [Free](https://digestseo.com/validator-mcp/) | open source | Free tool |
 | [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) | Generate FAQ structured-data markup. | [See website](https://foxmaya.com/tools/faq-schema-generator) | varies | Check website |
 | [geoptimize](https://github.com/cucuwang/geoptimize) | Check indexing controls, structured-data hygiene, canonical URLs, and metadata locally or in CI. | [Free](https://github.com/cucuwang/geoptimize) | open source | Free tool |
 | [Google Rich Results Test](https://search.google.com/test/rich-results) | Test pages and code for Google rich-result eligibility. | [Free](https://search.google.com/test/rich-results) | free tool | Free tool |
